@@ -1,4 +1,4 @@
-## Public link
+
 https://flask-social-agent.onrender.com/
 
 ## Your Name
@@ -8,20 +8,22 @@ Harsh Mahesh Rajeshirke
 Social Media Post Agent
 
 ## Which LLM API are you using for generation?
-gemini-2.5-flash
+Gemini 2.5 Flash Preview 05-20 model from the Google Generative Language API.
 
 ## What suggestion did Pritesh give you?
 Sir told to give option to select a user the plaforms like insta, linkeden etc and it should give result according to the selection
+#####  I have done changes as per sir's Suggestion
 
 ## What was the challenge you faced?
 A primary challenge was the two-stage process of first, gaining a comprehensive understanding of the core concepts and their functions such ass API communication and effective prompt engineering and applying that knowledge into architecture
 
 ## Screenshot for your implementation.
-<img width="766" height="906" alt="Screenshot 2025-10-15 230455" src="https://github.com/user-attachments/assets/dcd9b5a6-ef54-4ea9-92b7-76ed876cd0d6" />
+<img width="565" height="765" alt="Screenshot 2025-10-28 205151" src="https://github.com/user-attachments/assets/fb90ed66-6742-4476-b657-dcb9b29c5f55" />
+<img width="646" height="682" alt="Screenshot 2025-10-28 205857" src="https://github.com/user-attachments/assets/9da4085d-978a-4c69-a1a5-7e9beb123024" />
 
-<img width="539" height="730" alt="Screenshot 2025-10-15 231217" src="https://github.com/user-attachments/assets/ba2e4e64-f780-4c42-9aee-ea899a47bb38" />
 
 ## Email Address
+
 harsh.rajeshirke23@pccoepune.org
 
 ## Give stepwise flow of what your agent does
